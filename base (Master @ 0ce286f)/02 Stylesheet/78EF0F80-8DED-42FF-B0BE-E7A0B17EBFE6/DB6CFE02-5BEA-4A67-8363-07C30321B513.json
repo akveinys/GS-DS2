@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB6CFE02-5BEA-4A67-8363-07C30321B513",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F5D643A-5B4C-4521-B94A-ABFC784625E7",
+    "height": 24,
+    "width": 24,
+    "x": 441,
+    "y": 669
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Shopping Cart / Filled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE6E1EDD-E778-4184-AD34-FB3492CD3E1D_symbolID",
+      "value": "89B1628C-5E6E-49A9-A39F-E34B82511F76"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B2C8EDF-EA2F-42B9-AB20-B82C67108743",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FE14239-D912-4B12-AE52-6E145E247308",
+  "verticalSpacing": 0
+}

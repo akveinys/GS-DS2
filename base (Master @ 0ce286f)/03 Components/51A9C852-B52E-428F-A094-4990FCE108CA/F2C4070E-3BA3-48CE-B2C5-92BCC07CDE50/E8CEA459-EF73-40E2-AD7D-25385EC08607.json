@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8CEA459-EF73-40E2-AD7D-25385EC08607",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F15AD7AF-165D-4825-845F-9F3ACE63D063",
+    "height": 56,
+    "width": 150,
+    "x": 300,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bottom Navigation / Resting Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F52EC9D-A106-4821-AA65-EBE41115E9E6",
+      "overrideName": "AF6754AB-8DF9-4B64-A799-2FE1B84CBDFA_stringValue",
+      "value": "Account"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5D9AF47-8364-4D0D-994F-B619F3CC8E3F",
+      "overrideName": "CA0CFC0B-D051-486B-AD8D-50ADF6552F0C_symbolID",
+      "value": "36BED6C8-6FD6-44C0-8CF6-A4892FBF17EC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB0BB26F-C0C4-44D3-B106-6337E9DEF774",
+      "overrideName": "CA0CFC0B-D051-486B-AD8D-50ADF6552F0C/6BD1AC64-6866-47BD-B68F-40C3767BBDC8_layerStyle",
+      "value": "7B06FA07-9A1F-4B7A-ABFC-028CC5370751"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B63CB82B-7581-4E41-A67C-E34BBA449395",
+      "overrideName": "13CD5BA2-D566-4489-ACDC-1E27A3CC380D_layerStyle",
+      "value": "830F6531-523F-4F27-99CF-F5FFECC6F257"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BFA4A5F-F93C-4194-A695-6FE5B52F5DC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "89A4A1E6-C833-4D38-B4E7-52D04A4EA962",
+  "verticalSpacing": 0
+}

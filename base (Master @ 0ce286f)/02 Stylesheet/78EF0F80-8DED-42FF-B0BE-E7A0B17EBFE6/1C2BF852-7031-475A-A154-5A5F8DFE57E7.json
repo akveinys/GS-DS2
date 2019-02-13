@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C2BF852-7031-475A-A154-5A5F8DFE57E7",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF149B08-E2BA-4AC5-BDB5-DC026300816B",
+    "height": 24,
+    "width": 24,
+    "x": 317,
+    "y": 669
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Share / Filled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7EE0C099-A61A-4F12-8827-E3F9E5AC240A_symbolID",
+      "value": "89B1628C-5E6E-49A9-A39F-E34B82511F76"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B9D4A01-95CD-4CFC-BF64-8D4A762FF840",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4A80AAE1-89AF-47B9-904D-44E0E2598878",
+  "verticalSpacing": 0
+}

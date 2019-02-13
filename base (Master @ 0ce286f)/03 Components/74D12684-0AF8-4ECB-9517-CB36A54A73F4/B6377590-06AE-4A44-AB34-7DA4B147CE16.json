@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6377590-06AE-4A44-AB34-7DA4B147CE16",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66360D6E-BF93-4252-AE90-B59C45F71A1C",
+    "height": 24,
+    "width": 24,
+    "x": 651,
+    "y": 2023
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Circle / Filled Copy 33",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7469BC72-645F-4770-8256-3011B76F3EED_symbolID",
+      "value": "89B1628C-5E6E-49A9-A39F-E34B82511F76"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C52647E4-B963-45C7-8934-3AE85D2ED794",
+      "overrideName": "24585CC7-C4BE-4935-B8A9-16E931A53DC9_layerStyle",
+      "value": "515FC5B0-89A5-4644-97B2-42C0C3C58D5D"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9F21F52-9F1B-45FE-8F8D-D3361FB31EDA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49B33F09-C2C6-4422-8FD5-37E8B1F41F2C",
+  "verticalSpacing": 0
+}

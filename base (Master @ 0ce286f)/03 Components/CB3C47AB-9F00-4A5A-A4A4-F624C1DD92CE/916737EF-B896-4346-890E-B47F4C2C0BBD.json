@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "916737EF-B896-4346-890E-B47F4C2C0BBD",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0C27AC0-EDF5-4520-8824-0867FDB5E3E8",
+    "height": 24,
+    "width": 87,
+    "x": 786.0000000000001,
+    "y": 1438
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Text button / 01 Small / Secondary / No Icon / Resting Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0184AE16-97EE-4477-B0F2-4AB1B4045B2E",
+      "overrideName": "5FA5D197-5424-4F90-BC6D-E0719B4B72DF_stringValue",
+      "value": "DISAGREE"
+    }
+  ],
+  "resizingConstraint": 55,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95CCE9CC-00E4-460B-9CA7-83E053DED71E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2E6015DD-C0A1-4B3A-8BEE-139446785B27",
+  "verticalSpacing": 0
+}

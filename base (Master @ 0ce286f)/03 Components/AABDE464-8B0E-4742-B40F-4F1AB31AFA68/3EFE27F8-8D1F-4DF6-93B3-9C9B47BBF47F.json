@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EFE27F8-8D1F-4DF6-93B3-9C9B47BBF47F",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C037FCB-86C7-4FE5-A364-10BF594FDCAE",
+    "height": 24,
+    "width": 24,
+    "x": 390,
+    "y": 590
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Menu / Filled Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "498E430F-5FA4-4E49-8904-E43C821DE18F_symbolID",
+      "value": "89B1628C-5E6E-49A9-A39F-E34B82511F76"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FB3F842-3711-4AB4-B3F1-39A79285FA5B",
+      "overrideName": "A467D964-A6DA-445C-85B6-1EEBBFA61BB6_layerStyle",
+      "value": "830F6531-523F-4F27-99CF-F5FFECC6F257"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7041A87-D9B5-4676-92CB-1F2E65428989",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54B1BE71-3262-4C75-B9A3-AB94A444B43F",
+  "verticalSpacing": 0
+}

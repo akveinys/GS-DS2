@@ -1,0 +1,196 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "51885A8E-CC8C-4851-8BF5-05E8BAA6021B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AC08C95-B03A-4BD5-9AE4-A75CB0CAC7EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9360CCE4-6218-4021-BC5E-FA4BE4B31564",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "455F9BFA-068E-47C3-8E74-63C4A2FCC8AC",
+    "height": 1823,
+    "width": 1440,
+    "x": -180,
+    "y": -391
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7D13AC7F-115A-46E9-9E0A-7A8935046E9F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B085D40B-07DD-4D62-B39A-3F694ABB70FF"
+    },
+    {
+      "class": "group",
+      "id": "AB9DD2DC-3D06-4B10-9D40-5AF708B7A609"
+    },
+    {
+      "class": "text",
+      "id": "5B16878D-D2C0-4BE7-A21B-0AC7DFDDDCBC"
+    },
+    {
+      "class": "text",
+      "id": "6769F81A-E891-41D7-BB14-97E47F20C0B6"
+    },
+    {
+      "class": "group",
+      "id": "CC131945-89F0-4BB9-8D07-EDF969581C87"
+    },
+    {
+      "class": "text",
+      "id": "6AFA17A2-84EB-43CB-A3BE-0615570211D3"
+    },
+    {
+      "class": "text",
+      "id": "9A6DB6D0-2132-4031-B4B6-74A4C9F9B5AE"
+    },
+    {
+      "class": "text",
+      "id": "285E0817-72D6-476D-9387-D3117BE51C0F"
+    },
+    {
+      "class": "text",
+      "id": "CA325036-51BE-4CA9-BF53-04F65FFC1F43"
+    },
+    {
+      "class": "text",
+      "id": "E4DBAB34-3892-466D-8957-A34C19BB8EFA"
+    },
+    {
+      "class": "text",
+      "id": "35CBBC02-B64B-40E3-92BE-7C92E5CDA52C"
+    },
+    {
+      "class": "text",
+      "id": "AEF1C7CB-37E6-4BE5-B689-56A72C39297F"
+    },
+    {
+      "class": "text",
+      "id": "DF9516B8-01A8-4BA8-B914-BFAC21E65E1B"
+    },
+    {
+      "class": "text",
+      "id": "18E13194-DB51-4D15-8395-3B550D271870"
+    },
+    {
+      "class": "text",
+      "id": "5872783D-05ED-45D7-8C7E-6CC893C6BCE2"
+    },
+    {
+      "class": "rectangle",
+      "id": "FF9FBD4B-BE25-4C87-B381-1AE60360FE0D"
+    },
+    {
+      "class": "group",
+      "id": "C97CF34B-ACFC-48D4-9372-C4CDA80F89E9"
+    },
+    {
+      "class": "group",
+      "id": "76B6DEBC-793F-4AF3-8C3E-45751F4AAA51"
+    },
+    {
+      "class": "group",
+      "id": "95286283-AD19-45A1-9683-848EAE00A0EC"
+    },
+    {
+      "class": "group",
+      "id": "985E7B2D-794C-4402-89F3-64F1AFB4D827"
+    },
+    {
+      "class": "group",
+      "id": "A95C3163-C97A-4498-B1E9-C87802C4372E"
+    },
+    {
+      "class": "group",
+      "id": "1DB2BD38-E387-47AA-8CA2-C563D5A82822"
+    },
+    {
+      "class": "group",
+      "id": "4B2D62A2-C5E6-4701-A88A-D6953AC5BE94"
+    },
+    {
+      "class": "group",
+      "id": "72D8EB5F-D027-4786-B0E7-60CB790865CE"
+    },
+    {
+      "class": "group",
+      "id": "BD511F12-EA6E-4C61-B74D-20BE171D95A5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 58.5,
+    "do_objectID": "BEC875CB-2D04-4742-8A2C-75D95E57149F",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 51,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 922
+  },
+  "name": "App Bar",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "033FFEC4-F2A3-490C-95FF-EDEEE4391F0F",
+    "guides": [
+    ]
+  }
+}

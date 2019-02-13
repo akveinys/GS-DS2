@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4478394-509E-451B-90FC-ADC3DE140DA6",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 44,
+    "x": 541,
+    "y": 599
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Icon button / 01 Small / Default / Resting",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1968BDFB-D637-47DD-911F-824BF773D0F7",
+      "overrideName": "341C5243-A140-4DE9-847B-0C5FAFBF9FBA_symbolID",
+      "value": "8898CDBC-354B-43EF-B76B-80754DAA3A17"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BA25F97-A084-49CE-BE1C-9FED7C5B52C3",
+      "overrideName": "341C5243-A140-4DE9-847B-0C5FAFBF9FBA/65946F0B-819E-4B1C-82DE-C68C5D9C3491_layerStyle",
+      "value": "7B06FA07-9A1F-4B7A-ABFC-028CC5370751"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F77F22A-DB73-49E8-8134-3E94BCC015B1",
+  "verticalSpacing": 0
+}

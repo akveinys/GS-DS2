@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E41AE207-FE93-4F44-A052-E4CF0BD4B798",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F2AAA29-2EEF-4E6C-AEE9-576394D4E07F",
+    "height": 46,
+    "width": 240,
+    "x": 361,
+    "y": 662
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "drawer / list item / resting copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBF86288-BD8F-4D6F-9256-A7288784B044",
+      "overrideName": "7E57FC22-0BBA-4F2C-A77C-8D4F4635527A_stringValue",
+      "value": "Inbox"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11279557-F58E-497C-9533-CC1C9FA66032",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69A355AF-8131-45D3-9C43-D00AEDBE14AB",
+  "verticalSpacing": 0
+}

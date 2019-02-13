@@ -1,0 +1,96 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4F36740-2DD8-4D3D-BA98-2C86ED2E39D8",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -650,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "78EF0F80-8DED-42FF-B0BE-E7A0B17EBFE6"
+    },
+    {
+      "class": "artboard",
+      "id": "114FE5BE-3A7C-4686-8BBE-32C98B05D52E"
+    },
+    {
+      "class": "artboard",
+      "id": "1ECEF440-9501-4ED8-A067-1D619E2BF443"
+    },
+    {
+      "class": "artboard",
+      "id": "DAA7D7F3-E775-4891-9B9C-20F72E912250"
+    },
+    {
+      "class": "artboard",
+      "id": "B85A4958-7F86-45B1-9DCA-7AD384C17C59"
+    },
+    {
+      "class": "artboard",
+      "id": "984A1569-9CE7-4786-8AC0-13ECD925A58C"
+    },
+    {
+      "class": "artboard",
+      "id": "60503B3F-84A2-42E4-9D81-DD744498863D"
+    },
+    {
+      "class": "artboard",
+      "id": "64236582-D1EB-4BB0-B491-94EC9E72C010"
+    },
+    {
+      "class": "artboard",
+      "id": "6499B822-E503-4693-B3FD-8E2CD3FA7A48"
+    },
+    {
+      "class": "artboard",
+      "id": "414A7AA7-1F4C-415E-AAB5-54729CD173E7"
+    },
+    {
+      "class": "artboard",
+      "id": "A3CDF462-6744-45B9-8689-83E3E633ED6F"
+    },
+    {
+      "class": "artboard",
+      "id": "C80D5310-57CA-423F-866C-50FCBF8EF301"
+    },
+    {
+      "class": "artboard",
+      "id": "3E4A2B48-E038-4DCD-B7FF-BF790125FAD9"
+    },
+    {
+      "class": "bitmap",
+      "id": "D4D091D6-56CC-4C92-A4A3-7FB7FC5450B2"
+    }
+  ],
+  "name": "02 Stylesheet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -479,
+    "guides": [
+    ]
+  }
+}

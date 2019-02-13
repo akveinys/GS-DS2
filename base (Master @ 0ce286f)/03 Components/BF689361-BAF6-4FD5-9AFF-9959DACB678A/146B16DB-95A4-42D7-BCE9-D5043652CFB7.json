@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "146B16DB-95A4-42D7-BCE9-D5043652CFB7",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D17DD60-7B83-4209-85EB-A9BA24180B63",
+    "height": 46,
+    "width": 240,
+    "x": 361,
+    "y": 863
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "drawer / list item / resting copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0BE79B6-002A-47AF-88DE-EAAA59761D68",
+      "overrideName": "7E57FC22-0BBA-4F2C-A77C-8D4F4635527A_stringValue",
+      "value": "All Mail"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F463087E-B201-4515-AD75-FA1923C48D20",
+      "overrideName": "752EE7B6-8CDF-4CDD-93E8-97F66F6AD579_symbolID",
+      "value": "1483B21D-249B-473F-95D0-2EA223BFBE4A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4C50622-244C-4734-A40F-ED010A24D343",
+      "overrideName": "752EE7B6-8CDF-4CDD-93E8-97F66F6AD579/EF9BCF04-E03D-455B-A666-B86EAFE083AA_layerStyle",
+      "value": "7B06FA07-9A1F-4B7A-ABFC-028CC5370751"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF69B8B2-95A3-4CAA-A6FC-838109076CEF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69A355AF-8131-45D3-9C43-D00AEDBE14AB",
+  "verticalSpacing": 0
+}

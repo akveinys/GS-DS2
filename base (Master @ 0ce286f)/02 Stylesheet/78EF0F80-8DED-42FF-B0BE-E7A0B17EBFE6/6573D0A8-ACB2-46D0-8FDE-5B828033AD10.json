@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6573D0A8-ACB2-46D0-8FDE-5B828033AD10",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "416FAA6A-C666-4A11-9645-9416B3821124",
+    "height": 24,
+    "width": 24,
+    "x": 564,
+    "y": 547
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Arrow Drop Up / Filled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "23CDD40F-D5B3-48CA-8501-D86D62E6A2F8_symbolID",
+      "value": "89B1628C-5E6E-49A9-A39F-E34B82511F76"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6ED22CF9-B707-47DA-A5DD-4450F6D033B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F68550A2-6124-4CF2-AAC0-0DF4824318FA",
+  "verticalSpacing": 0
+}
