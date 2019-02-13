@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "DB0E8A06-69C6-4389-9230-3CBFD4F382EC",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
