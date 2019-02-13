@@ -3,6 +3,23 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "053AA5B4-5F5E-442B-88D2-44CF8CEE35FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
@@ -61,6 +78,13 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
   "userInfo": {
   },
   "verticalRulerData": {

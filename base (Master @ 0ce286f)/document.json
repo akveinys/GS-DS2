@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -16,8 +20,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "52EB1C36-FA36-4ACD-B79D-E753FABDD568",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
@@ -99,6 +101,7 @@
   },
   "meta": {
     "appVersion": "53",
+    "build": 72520,
     "version": 116
   },
   "pages": [
